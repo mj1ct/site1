@@ -1,0 +1,288 @@
+body{
+	margin: 0;
+}
+.menu{
+	background-color:#4B0082;
+	height: 1000px;
+	width: 170px;
+	top: 0;
+	left: 0;
+	text-align: center;
+	border-radius: 10px;
+	position: absolute;
+}
+.menu h3{
+	color: white;
+}
+.menu a{
+	color: white;
+	text-decoration: none;
+}
+h1{
+	text-align: left;
+	font-size: 45px;
+	margin-left: 300px;
+}
+.Showcase{
+	text-align: left;
+	font-size: 45px;
+	color: #483D8B;
+	margin-left: 300px;
+	font-family: Arial;
+	font-weight: normal;
+}
+hr{
+	border:5px solid #483D8B;
+	width: 850px;
+	border-radius: 15px;
+	margin-right: 317px;
+}
+.rooms{
+	width: 80%;
+	text-align: right;
+	display: inline-block;
+	margin-right: 60px;
+	opacity: 55%;
+}
+.rooms img{
+	width: 35%;
+	margin: 15px;
+	border-radius: 7px;
+}
+.Service_name{
+	text-align: left;
+	font-size: 45px;
+	color: #483D8B;
+	margin-left: 300px;
+	font-family:Arial; 
+	font-weight: normal;
+}
+.services hr{
+	border:5px solid #483D8B;
+	width: 850px;
+	border-radius: 15px;
+	margin-right: 312px;
+}
+.Services p{
+	text-align: left;
+	font-weight: 549;
+	font-size: 20px;
+	margin-left: 300px;
+	width: 850px;
+	font-family: Arial;
+}
+.Desihner_name{
+	
+}
+.Designers hr{
+	border:5px solid #483D8B;
+	width: 850px;
+	border-radius: 15px;
+	margin-right: 320px;
+}
+.Designers h2{
+	text-align: left;
+	font-size: 45px;
+	margin-left: 300px;
+	color:#483D8B ;
+	font-family: Arial;
+	font-weight: normal;
+}
+.Designers p{
+	text-align: left;
+	font-weight: 549;
+	font-size: 20px;
+	margin-left: 300px;
+	width: 850px;
+	font-family: Arial;
+}
+#p{
+	font-weight: 900;
+}
+
+
+#member{
+	margin: 15px;
+	display: inline-block;
+	width:30%;
+	box-sizing: border-box;
+	
+}
+#member img{
+	border-radius:12px;
+	width: 100%;
+}
+
+#member .member_information{
+	background-color:#F5F5F5;
+	text-align: left;
+	font-size: 25px;
+
+	border-radius: 15px;
+	padding:3px ;
+	font-family: Arial ;
+}
+.member_information p{
+	line-height: 1.5;
+}
+.name{
+	font-weight: 1000;
+}
+.work{
+	color: grey;
+}
+.members{
+	margin-left: 279px;
+}
+.Packages_name {
+    text-align: left;
+    font-size: 45px;
+    color: #483D8B;
+    font-family: Arial;
+    font-weight: normal;
+}
+.Packages p {
+	text-align: left;
+	font-weight: 549;
+	font-size: 20px;
+	width: 850px;
+	font-family: Arial;
+}
+.Packages hr{
+	border:5px solid #483D8B;
+	width: 850px;
+	border-radius: 15px;
+	margin-left: 0.5px;
+}
+ .prices button{
+	background-color:white;
+	width: 20%;
+	border-radius: 10px;
+	color:#483D8B;
+	text-decoration: none;
+	display: inline-block ;
+	text-align: center;
+	padding: 12px 0;
+	border-width: 0;
+}
+.prices{
+	background-color:WhiteSmoke;
+	width: 30%;
+	color: black;
+	margin: 10px;
+ 	display: inline-block;
+ 	vertical-align: middle;
+ 	padding: 0;
+ 	min-width: 150px;
+ 	border-radius: 10px;
+ }
+ .tarif_name_basic{
+ 	background-color:#483D8B;
+	padding: 32px 0;
+	color: white;
+	font-size: 24px;
+	border-radius: 10px;
+	text-align: center;
+	font-family: Arial;
+	margin-top: 0;
+
+ }
+ .basic{
+ 	text-align: center;
+ 	font-family: Arial;
+ }
+ .price{
+ 	font-weight: bold;
+ 	font-size: 25px;
+ }
+ .period{
+ 	color: lightgray;
+ }
+ .prices li{
+ 	list-style-type: none;
+ 	margin-left: 0;
+ 	border-bottom-width: 1px;
+ 	border-bottom-color: #dddddd ;
+ 	border-bottom-style: solid ;
+ 	padding: 16px 0;
+ 	border-radius: 10px;
+ }
+ .prices ul{
+ 	margin: 0;
+ 	padding: 0;
+ }
+ .tarif_name_pro{
+ 	background-color:#FF4500;
+	padding: 32px 0;
+	color: white;
+	font-size: 24px;
+	border-radius: 10px;
+	text-align: center;
+	font-family: Arial;
+	margin-top: 0;
+ }
+ .button button{
+	background-color:#FF4500;
+	width: 20%;
+	border-radius: 10px;
+	color:white;
+	text-decoration: none;
+	display: inline-block ;
+	text-align: center;
+	padding: 12px 0;
+	border-width: 0;
+}
+.Contact_name {
+    text-align: left;
+    font-size: 45px;
+    color: #483D8B;
+    font-family: Arial;
+    font-weight: normal;
+}
+.Contact hr{
+	border:5px solid #483D8B;
+	width: 850px;
+	border-radius: 15px;
+	margin-left: 0.5px;
+}
+.Contact p {
+	text-align: left;
+	font-weight: 549;
+	font-size: 18px;
+	width: 950px;
+	font-family: Arial;
+}
+.Contact label{
+	font-size: 20px;
+	font-weight: 900px;
+	font-family: Arial;
+}
+.Contact input{
+	width: 840px;
+    padding: 2px;
+    font-size: 20px;
+    outline: none;
+  	border-color: #D8BFD8;
+  	margin-bottom: 16px;
+}
+.Contact button{
+	background-color:#483D8B;
+	width: 850px;
+	border-radius: 10px;
+	color:white;
+	text-decoration: none;
+	display: inline-block ;
+	text-align: center;
+	padding: 12px 0;
+	border-width: 0;
+}
+#Powered{
+	background-color: lightgray;
+	text-align: right;
+	padding-top: 20px;
+	padding-right: 3%;
+	width:97% ;
+	height:50px;
+	margin-left: 0;
+	margin-top: 90px;
+}
